@@ -1,0 +1,7 @@
+start with CSS3 with jQuery / Reverse Animation
+	have projects, about, experience, contact 
+
+use css-only responsive layout with smooth transitions for about
+	impressive product showcase with annotation overlay effect w/ css3 for description
+	animated content tabs with css3 for experience
+	drop-in modals for contact
