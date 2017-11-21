@@ -672,3 +672,30 @@ ul#expanded a:hover {
 		left:280px; 
 	}
 }
+
+#big-cube {
+	position: relative;
+	margin: auto;
+	height: 100%;
+	width: 100%;
+	-webkit-transition: -webkit-transform 2s linear;
+	-webkit-transform-style: preserve-3d;
+	-moz-transition: -moz-transform 2s linear;
+	-moz-transform-style: preserve-3d;
+	transition: transform 2s linear;
+	transform-style: preserve-3d;
+	z-index: -10;
+}
+
+#big-face {
+	position: absolute;
+	height: 100%;
+	width: auto;
+	padding: 20px;
+	background-color: #cfa7a7;
+	font-size: 27px;
+	line-height: 1em;
+	color: #fff;
+	border: 1px solid #555;
+	border-radius: 3px;
+}
